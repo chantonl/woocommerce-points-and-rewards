@@ -1,0 +1,19 @@
+{
+    "name": "chantonl/woocommerce-points-and-rewards",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/chantonl/woocommerce-points-and-rewards",
+    "authors": [
+        {
+            "name": "WooThemes",
+            "homepage": "https://woocommerce.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
+}
